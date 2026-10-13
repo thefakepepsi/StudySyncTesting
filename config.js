@@ -6,7 +6,7 @@
  * Leave it empty to let each person paste their own key in Settings (kept in their browser only).
  */
 window.SS_CONFIG = {
-  GROQ_API_KEY: "",
+  GROQ_API_KEY: "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",
 
   // Waypoint "Ask an Expert" meeting links
   MEET_LINK: "https://meet.google.com/dsg-ttwb-rmk",
